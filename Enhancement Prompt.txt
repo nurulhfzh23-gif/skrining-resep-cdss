@@ -1,0 +1,5 @@
+Perbarui dashboard skrining resep yang telah dibuat dengan menambahkan dua peningkatan utama:
+1. Ubah visualisasi Distribusi Masalah Skrining dari Bar Chart menjadi Polar Area Chart atau Doughnut Chart interaktif agar perbandingan proporsi masalah Administratif, Farmasetik, dan Klinis/Interaksi lebih menarik secara visual.
+2. Tambahkan tombol "Ekspor Laporan Skrining (CSV)" dan fitur cetak/salin "Catatan Konfirmasi SBAR ke Dokter" di dalam modal detail resep sehingga apoteker dapat langsung menyalin pesan rekomendasi intervensi klinis untuk setiap resep yang ditahan.
+
+Pertahankan seluruh fungsi logika skrining, filter dinamis, KPI, dan layout yang sudah ada, sesuaikan warna agar konsisten dengan tema medis dashboard, serta pastikan chart tetap responsif dan diperbarui secara dinamis saat filter digunakan.
